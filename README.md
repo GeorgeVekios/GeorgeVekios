@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgeVekios
-- 👀 I’m interested in software development. I've primarily worked with Java but am comfortable in Python.
+- 👀 I’m interested in software development. I primarily work in C#, but currently working in a Kotling class as well.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on projects using java, python, or html.
+- 💞️ I’m looking to collaborate on projects using java, python, c#
 - 📫 Reach me at georgevekios@gmail.com
 
 <!---
